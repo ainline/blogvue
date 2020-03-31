@@ -1,0 +1,25 @@
+/* 全局样式 */
+body {
+  margin: 0px;
+  padding: 0px;
+  /* font-family: SpecialSymbol, DINRegular, -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Segoe UI", "Microsoft YaHei", 微软雅黑, sans-serif; */
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  overflow: visible  !important;
+}
+/* ::-webkit-scrollbar {
+  width: 0.618rem;
+  height: 0.618rem;
+  background: hsla(0, 0%, 100%, 0.6);
+}
+::-webkit-scrollbar-track {
+  border-radius: 0;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background-color: rgba(95, 95, 95, 0.4);
+  -webkit-transition: background-color 0.1s;
+  transition: background-color 0.1s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(95, 95, 95, 0.7);
+} */
